@@ -1,3 +1,3 @@
 Olorunfemi Ololade Adedoyin
 
-The projects in this repository demonstrate practical data analysis skills usiing Microsft Excel, Power Bi, Tableau, SQL, and Python.
+The projects in this repository demonstrate practical data analysis skills using Microsft Excel, Power Bi, Tableau, SQL, and Python.
